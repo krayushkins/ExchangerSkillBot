@@ -1,4 +1,4 @@
 # ExchangerSkillBot
-Практическое задание от SkillFactory.
+Практическое задание (23.6.1) от SkillFactory.
 
-Телеграм-бот @ExchangerSkillBot для конвертации валют.
+Телеграм-бот для конвертации валют - @ExchangerSkillBot.
