@@ -1,7 +1,7 @@
 # ExchangerSkillBot
 Практическое задание (23.6.1) от SkillFactory
 
-Телеграм-бот для конвертации валют. Имя в телеграме - @ExchangerSkillBot
+Телеграм-бот для конвертации валют. Имя в телеграм - @ExchangerSkillBot
 
 Конвертирование валют: RUB, USD, EUR
 
